@@ -59,6 +59,18 @@ You can reach me on discord at `daddy_m`
 ---------------------------------------
 
 
+### INFORMATION:
+
+```js
+Stealing or copying this repositroy in any way is not allowed.
+You may NOT redestribute for your own personal benefit (selling, etc)
+You may NOT claim that this is yours and you must give credit to the owner (Me)
+I am NOT responsible for what you do with this!
+
+Educational Purposes Only.
+```
+
+
 
 
 
