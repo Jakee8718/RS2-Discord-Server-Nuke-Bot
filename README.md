@@ -22,6 +22,12 @@
         <img src="https://img.shields.io/discord/1072644441921306766?logo=discord"
             alt="chat on Discord"></a>
 <p>
+<p>
+
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/:Jakee8718/:RS2-Discord-Server-Nuke-Bot/total">
+
+
+</p>
 
   <p align="center">
     Has a user-friendly interface to nuke discord servers with.
