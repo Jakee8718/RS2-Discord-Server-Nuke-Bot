@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-<img src="assets/example.PNG" alt="Image of product">
+<img src="example.PNG" alt="Image of product">
  </p>
 </div>
 
