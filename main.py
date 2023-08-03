@@ -33,9 +33,10 @@ async def main_menu():
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╠╡ (1) ╞═› {Fore.BLUE}{Style.BRIGHT} Nuke Channels {Style.RESET_ALL}   {Fore.MAGENTA}{Style.BRIGHT}     (3) ╞═› {Fore.BLUE}{Style.BRIGHT} Spam Channels  {Style.RESET_ALL}          {Fore.MAGENTA}{Style.BRIGHT}              ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╠╡ (2) ╞═› {Fore.BLUE}{Style.BRIGHT} Raid Server {Style.RESET_ALL}   {Fore.MAGENTA}{Style.BRIGHT}       (4) ╞═› {Fore.BLUE}{Style.BRIGHT} Spam With Webhook  {Style.RESET_ALL}          {Fore.MAGENTA}{Style.BRIGHT}          ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}║                                                                                 ║")
-        print(f"{Fore.MAGENTA}{Style.BRIGHT}{Fore.MAGENTA}{Style.BRIGHT}║ Last Updated: 8/3/2023                                                         ║")
+        print(f"{Fore.MAGENTA}{Style.BRIGHT}{Fore.MAGENTA}{Style.BRIGHT}║ Last Updated: 8/3/2023                                                          ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}║ Discord: https://discord.gg/qybBqmkcnE                                          ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╚═════════════════════════════════════════════════════════════════════════════════╝")
+        # Changing the discord server and/or credits is not allowed and you will get in trouble
         
         option = input("Input:  ")
 
