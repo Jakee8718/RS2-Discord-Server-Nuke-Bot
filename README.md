@@ -24,7 +24,7 @@
 <p>
 <p>
 
-  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/:Jakee8718/:RS2-Discord-Server-Nuke-Bot/total">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Jakee8718/RS2-Discord-Server-Nuke-Bot/total">
 
 
 </p>
