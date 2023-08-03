@@ -26,13 +26,20 @@
     <a href="https://github.com/Jakee8718/RS2-Discord-Server-Nuke-Bot/issues">Request Feature</a>
   </p>
 </div>
+
+
+<img src="assets/example.PNG" alt="Image of product">
+
+
+
 ---------------------------------------
 
 ### How to use
 
-* Download Python
-* Open cmd in file path and install necessary requirements
-* Run 'python main.py'
+* Download Python (If needed)
+* Open `config.json` and put your bot token inside.
+* Then run 'python main.py'
+* Now you can use the interface and enjoy!
 
 ---------------------------------------
 
