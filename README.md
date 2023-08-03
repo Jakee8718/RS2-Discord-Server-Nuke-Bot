@@ -19,7 +19,7 @@
 
   <p>
     <a href="https://discord.gg/qybBqmkcnE">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+        <img src="https://img.shields.io/discord/1072644441921306766?logo=discord"
             alt="chat on Discord"></a>
 <p>
 
