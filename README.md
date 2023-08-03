@@ -27,9 +27,10 @@
   </p>
 </div>
 
-
+<p align="center">
 <img src="assets/example.PNG" alt="Image of product">
-
+ </p>
+</div>
 
 
 ---------------------------------------
