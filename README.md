@@ -31,6 +31,8 @@
 
   <p align="center">
     Has a user-friendly interface to nuke discord servers with.
+<br />
+<br />
 Recent update: "Audit Log Spam" is a new feature that allows you to spam the audit log with various things. it's kinda buggy, if it gives any errors just close out and re-open the "run" batchfile again and everything will be back to normal!
     <br />
     <br />
