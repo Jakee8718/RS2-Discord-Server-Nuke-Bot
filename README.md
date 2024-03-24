@@ -31,6 +31,7 @@
 
   <p align="center">
     Has a user-friendly interface to nuke discord servers with.
+Recent update: "Audit Log Spam" is a new feature that allows you to spam the audit log with various things. it's kinda buggy, if it gives any errors just close out and re-open the "run" batchfile again and everything will be back to normal!
     <br />
     <br />
     <a href="https://github.com/Jakee8718/RS2-Discord-Server-Nuke-Bot/issues">Report Bug</a>
@@ -51,7 +52,7 @@
 
 * Download Python (If needed)
 * Open `config.json` and put your bot token inside.
-* Then run 'python main.py'
+* Then open "run" (double click)
 * Now you can use the interface and enjoy!
 
 ---------------------------------------
@@ -62,6 +63,7 @@
 * Free
 * Spam
 * Webhook Spam
+* Audit Log Spam (buggy)
 * Doesn't get flagged by Discord
 
 ---------------------------------------
