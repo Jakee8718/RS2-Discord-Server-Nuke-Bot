@@ -47,7 +47,7 @@ async def main_menu():
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╠╡ (1) ╞═› {Fore.BLUE}{Style.BRIGHT} Nuke Channels {Style.RESET_ALL}   {Fore.MAGENTA}{Style.BRIGHT}     (3) ╞═› {Fore.BLUE}{Style.BRIGHT} Spam Channels  {Style.RESET_ALL}          {Fore.MAGENTA}{Style.BRIGHT}              ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╠╡ (2) ╞═› {Fore.BLUE}{Style.BRIGHT} Raid Server {Style.RESET_ALL}   {Fore.MAGENTA}{Style.BRIGHT}       (4) ╞═› {Fore.BLUE}{Style.BRIGHT} Spam With Webhook  {Style.RESET_ALL}          {Fore.MAGENTA}{Style.BRIGHT}          ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╠╡ (5) ╞═› {Fore.BLUE}{Style.BRIGHT} Audit Log Spam {Style.RESET_ALL}   {Fore.MAGENTA}{Style.BRIGHT}    (6) ╞═› {Fore.BLUE}{Style.BRIGHT} COMING SOON {Style.RESET_ALL}      {Fore.MAGENTA}{Style.BRIGHT}                     ║")
-        print(f"{Fore.MAGENTA}{Style.BRIGHT}{Fore.MAGENTA}{Style.BRIGHT}║ Last Updated: 1/1/2024                                                          ║")
+        print(f"{Fore.MAGENTA}{Style.BRIGHT}{Fore.MAGENTA}{Style.BRIGHT}║ Last Updated: 3/23/2024                                                         ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}║ Discord: https://discord.gg/qybBqmkcnE                                          ║")
         print(f"{Fore.MAGENTA}{Style.BRIGHT}╚═════════════════════════════════════════════════════════════════════════════════╝")
         
