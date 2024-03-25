@@ -8,7 +8,8 @@
 </p>
   
 ---------------------------------------
-  
+   # PLEASE READ:
+## This code has SERIOUS issues. The problem is that heartbeat has been blocked and i cannot figure it out lmao. If you can fix it make a pull-request or hit me up on discord @daddy_m
 <br/>
 <div align="center">
   <a href="https://github.com/Jakee8718/RS2-Discord-Server-Nuke-Bot">
@@ -33,8 +34,7 @@
     Has a user-friendly interface to nuke discord servers with.
   </p>
   </div>
-  # PLEASE READ:
-## This code has SERIOUS issues. The problem is that heartbeat has been blocked and i cannot figure it out lmao. If you can fix it make a pull-request or hit me up on discord @daddy_m
+ 
 <p align="center">
 <br />
 <br />
