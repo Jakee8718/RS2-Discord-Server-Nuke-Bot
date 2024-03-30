@@ -9,7 +9,8 @@
   
 ---------------------------------------
    # PLEASE READ:
-## This code has SERIOUS issues. The problem is that heartbeat has been blocked and i cannot figure it out lmao. If you can fix it make a pull-request or hit me up on discord @daddy_m
+## This code has some issues, join the discord to buy the full version (cheap)
+In addition to that, RS2 Raid tools have been released. They are also available in the discord server, just ask me about it!
 <br/>
 <div align="center">
   <a href="https://github.com/Jakee8718/RS2-Discord-Server-Nuke-Bot">
